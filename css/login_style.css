@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,700i,900,900i|Open+Sans:400,400i,600,600i,700,700i,800|Poppins:300,400,400i,500,500i,600,600i,700,700i,800,800i,900|Rufina:400,700');
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/* body{
+	background-image: url(okul.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+} */
+h1{text-align: center;
+	margin-top: 50px;}
+
+form{
+	text-align: center;
+}
+
+input.submit{
+	width: 19.5%;
+	height: 5%;
+	border: 1px;
+	border-radius: 05px;
+	padding: 8px 15px 8px 18px;
+	margin: 10px 10px 10px 0px;
+	box-shadow: 1px 1px 2px 1px grey;
+
+}
+
+input.value{
+	width: 40%;
+	height: 5%;
+	border: 1px;
+	border-radius: 05px;
+	padding: 8px 15px 8px 18px;
+	margin: 10px 0px 10px 0px;
+	box-shadow: 1px 1px 2px 1px grey;
+
+}
+
+button.submit{
+	width: 19.5%;
+	height: 5%;
+	border: 1px;
+	border-radius: 05px;
+	padding: 8px 15px 8px 18px;
+	margin: 10px 0px 10px 0px;
+	box-shadow: 1px 1px 2px 1px grey;
+
+}
+button.kayıt{margin-bottom: 292px;}
+
+.login{
+	margin-bottom: 30%;
+}
